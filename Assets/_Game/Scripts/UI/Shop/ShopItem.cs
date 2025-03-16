@@ -1,12 +1,8 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
-using UnityEditor;
+
 using UnityEngine;
 using UnityEngine.UI;
-using static UIShop;
-using static UnityEditor.LightingExplorerTableColumn;
+
 
 public class ShopItem : MonoBehaviour
 {
